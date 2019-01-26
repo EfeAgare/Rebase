@@ -19,3 +19,4 @@ sen con try
 # Efe Agare
 knowledge id tryig is own
 git is actually rebasing
+God is good all the time
