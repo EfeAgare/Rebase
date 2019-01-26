@@ -16,3 +16,5 @@ Knowledge is trying  out rebase
 
 # Knowleege
 sen con try
+# Efe Agare
+knowledge id tryig is own
